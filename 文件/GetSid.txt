@@ -1,0 +1,15 @@
+//Test
+https://admin.vir777.com/amfphp/json.php/Client.login/mobile03/f123456/6
+
+
+//¥¿¦¡¯¸
+http://bm.esballgame.com/app/WebService/view/display.php/MobileLogin2?username=mobile04&password=qwerty123&domaincode=bbg&ip=&platform=anfone
+
+//04vip
+http://api.04vip.com/app/WebService/view/display.php/MobileLogin2?username=bbinchirmba&password=asd123&domaincode=bin&ip=&platform=anfone
+
+bbinchirmba
+asd123
+
+william_wang@mail.chungyo.net
+William888
